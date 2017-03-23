@@ -7,7 +7,7 @@ g++ demo.cpp -lboost_serialization
 
 how to run:
 
-./out
+./a.out
 
 
 the serilization result will be stored in file demofile123, which can be used to deserialization.
